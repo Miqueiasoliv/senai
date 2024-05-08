@@ -1,0 +1,12 @@
+p{
+    color: rgb(0, 255, 26);
+    font-style: italic;
+    font-size: 150%;
+}
+h1{
+    color: red;
+    font-size: 150%;
+}
+body{
+    background-color: black;
+}
