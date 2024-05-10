@@ -1,3 +1,18 @@
+body{animation: piscapisca 2s infinite;
+
+}
+@keyframes piscapisca{
+    0%{
+        background-color: aqua;
+    }
+50%{
+    background-color: blue;
+}
+100%{
+    background-color: chartreuse;
+}
+}
+
 p{
     color: rgb(0, 255, 26);
     font-style: italic;
@@ -9,4 +24,17 @@ h1{
 }
 body{
     background-color: black;
+}
+#primeiro{
+    color: aqua;
+}
+#segundo{
+    color: blue;
+}
+#terceiro{
+    color: blueviolet;
+}
+.borda{
+    border: solid 1px;
+    color: rgb(70, 207, 16);
 }
