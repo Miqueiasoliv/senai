@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    width: 500px;
+    border: 1px solid blue;
+    flex-wrap: wrap;
+}
+h1{
+    border:2px solid rebeccapurple;
+}
+h2{
+    border:2px solid green;
+}
+h3{
+    border:2px solid yellowgreen;
+}
