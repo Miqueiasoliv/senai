@@ -5,6 +5,6 @@ while(tru) {
         break
     }
     else{
-        alert("noa e seu nome, tente novamente!")
+        alert("nao e seu nome, tente novamente!")
     }
 }
